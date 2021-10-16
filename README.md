@@ -8,6 +8,8 @@
 
 ## 4) 'index.php' file contains how we can include database connection in any part of our project.
 
+
+
 # Queries:
 
 ## 1) Retrieve the Details of all the Movies present in the table:
