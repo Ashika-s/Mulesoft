@@ -3,10 +3,10 @@ CREATE TABLE MOVIES (Movie_name varchar(40),Actor varchar(40),Actress varchar(40
 INSERT INTO movies  (Movie_name, Actor, Actress, Year_Of_Release, Director) VALUES ('Girgit', 'Roopesh Shetty', 'Shilpa Shetty', 2019, 'Rakesh Kadri');
 INSERT INTO movies  (Movie_name, Actor, Actress, Year_Of_Release, Director) VALUES ('Zindagi Na Milegi Dobara', 'Hrithik Roshan', 'Katrina Kaif', 2011, 'Zoya Akhtar');
 INSERT INTO movies  (Movie_name, Actor, Actress, Year_Of_Release, Director) VALUES ('PK', 'Aamir Khan', 'Anushka Sharma', 2014, 'Rajkumar Hirani');
-INSERT INTO movies` (Movie_name, Actor, Actress, Year_Of_Release, Director) VALUES ('URI: The Surgical Strike', 'Vicky Kaushal', 'Yami Gautham', 2019 , 'Aditya Dhar');
-INSERT INTO movies` (Movie_name, Actor, Actress, Year_Of_Release, Director) VALUES ('Chhichhore', 'Sushanth Singh Rajput', 'Shraddha Kapoor', 2019, 'Nitesh Tiwari');
-INSERT INTO movies` (Movie_name, Actor, Actress, Year_Of_Release, Director) VALUES ('3 Idiots', 'Aamir Khan', 'Kareena Kapoor', 2009, 'Rajkumar Hirani');
-INSERT INTO movies` (Movie_name, Actor, Actress, Year_Of_Release, Director) VALUES ('Dil Bechara', 'Sushanth Singh Rajput', 'Sanjana Sanghi', 2020, 'Mukesh Chabbra');
+INSERT INTO movies  (Movie_name, Actor, Actress, Year_Of_Release, Director) VALUES ('URI: The Surgical Strike', 'Vicky Kaushal', 'Yami Gautham', 2019 , 'Aditya Dhar');
+INSERT INTO movies  (Movie_name, Actor, Actress, Year_Of_Release, Director) VALUES ('Chhichhore', 'Sushanth Singh Rajput', 'Shraddha Kapoor', 2019, 'Nitesh Tiwari');
+INSERT INTO movies  (Movie_name, Actor, Actress, Year_Of_Release, Director) VALUES ('3 Idiots', 'Aamir Khan', 'Kareena Kapoor', 2009, 'Rajkumar Hirani');
+INSERT INTO movies  (Movie_name, Actor, Actress, Year_Of_Release, Director) VALUES ('Dil Bechara', 'Sushanth Singh Rajput', 'Sanjana Sanghi', 2020, 'Mukesh Chabbra');
 
 SELECT * FROM MOVIES;
 
