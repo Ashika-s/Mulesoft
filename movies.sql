@@ -18,4 +18,4 @@ SELECT Movie_Name FROM MOVIES WHERE Actor = "Roopesh Shetty" AND Actress = "Shil
 
 SELECT Movie_name, Actor, Actress FROM MOVIES WHERE Year_Of_Release BETWEEN 2000 AND 2015;
 
-SELECT * FROM MOVIES ORDEFR BY Movie_name DESC;
+SELECT * FROM MOVIES ORDER BY Movie_name DESC;
