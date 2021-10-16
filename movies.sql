@@ -8,7 +8,6 @@ INSERT INTO `movies` (`Movie_name`, `Actor`, `Actress`, `YOR`, `Director`) VALUE
 INSERT INTO `movies` (`Movie_name`, `Actor`, `Actress`, `YOR`, `Director`) VALUES ('3 Idiots', 'Aamir Khan', 'Kareena Kapoor', 2009, 'Rajkumar Hirani');
 INSERT INTO `movies` (`Movie_name`, `Actor`, `Actress`, `YOR`, `Director`) VALUES ('Dil Bechara', 'Sushanth Singh Rajput', 'Sanjana Sanghi', 2020, 'Mukesh Chabbra');
 
-
 SELECT * FROM MOVIES;
 
 SELECT Movie_Name FROM MOVIES WHERE Actor = "Sushanth Singh Rajput";
