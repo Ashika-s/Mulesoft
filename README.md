@@ -10,12 +10,24 @@
 
 # Queries:
 
-### 1) Retrieve the Details of all the Movies present in the table:
+## 1) Retrieve the Details of all the Movies present in the table:
 
 
 
-### 2) Retrive the names of all the moovies Acted by Sushanth Singh Rajput:
+## 2) Retrive the names of all the moovies Acted by Sushanth Singh Rajput:
 
 
 
-### 3) 
+## 3) Count the number of Movies released during the year 2019:
+
+
+
+## 4) Retrieve the name of the Movies where Actor is Roopesh Shetty and Actress is Shilpa Shetty:
+
+
+
+## 5) Retrieve the details of the movies released between the year 2000 and 2015:
+
+
+
+## 6) 
