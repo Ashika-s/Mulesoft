@@ -30,4 +30,6 @@
 
 
 
-## 6) 
+## 6) Retrieve the details of all the movies ordered by movie name in Descending Order:
+
+
